@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Difz25/ReportUIToDiscord
+build-by-default: true
+branches:
+- main
+projects:
+  ReportUIToDiscord:
+    path: ""
+...
