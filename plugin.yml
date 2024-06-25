@@ -1,0 +1,18 @@
+name: ReportUIToDiscord
+main: Difz25\ReportUIToDiscord\Main
+version: 1.0.0
+api: 5.0.0
+author: Difz25
+
+commands:
+  report:
+    description: ReportUIToDiscord by Difz25
+    permission: report.use
+
+permissions:
+  report.use:
+    description: ReportUIToDiscord by Difz25
+    default: true
+  report.view:
+    description: ReportUIToDiscord by Difz25
+    default: op
