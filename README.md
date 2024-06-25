@@ -1,4 +1,4 @@
-# ReportUIToDiscord
+# Information
 ReportUIToDiscord was developed by [Difz25](https://github.com/Difz25)
 
 # Depend
